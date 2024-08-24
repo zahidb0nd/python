@@ -1,5 +1,6 @@
-print('hello world')
-a=5
-b='zahid'
-print(type(a))
-print(len(b))
+message = "hello python world"
+print(message)
+
+
+message = "hello python crash course"
+print(message)
